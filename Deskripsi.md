@@ -1,7 +1,7 @@
-# Android Room Database Library Tutoria;
+# Android RestAPI with CI Tutorial;
 
 This is an Android application for demo-ing the Room Database library by Google.
-Basic database operations with Room & SQLite supported by this tutorial :
+Basic database operations with RestApi & CI supported by this tutorial :
 (CRUD)
 - Create
 - Read
@@ -17,7 +17,7 @@ Basic database operations with Room & SQLite supported by this tutorial :
 
 ## Credits
 
-- [The TWOH's Engineering](http://www.twoh.co)
+- Arif Rahmat Santoso @arip1997
 
 ## Licensed under MIT License
 
@@ -41,3 +41,5 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
 OR OTHER DEALINGS IN THE SOFTWARE.
 
+## Suported
+INFORMATICS ENGINEERING
